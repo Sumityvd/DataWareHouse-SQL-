@@ -75,15 +75,6 @@ This project involves the following core components:
 
 ---
 
-## 📎 Bonus Resources
-
-- 📂 [📁 Download Datasets](#) *(CSV Files used in project)*
-- 🗂️ [🧾 View Notion Project Template](#)
-- 📌 [🧭 DrawIO Diagrams](#)
-- 🧰 [💡 SQL Scripts + Schema Docs](#)
-
----
-
 ## 📌 Skills Demonstrated
 
 | 🔧 Skill | ✅ Demonstrated |
@@ -105,16 +96,6 @@ This is a great reference for:
 - 💼 Aspiring Data Engineers
 - 🧑‍💻 SQL Developers
 - 📈 BI & Reporting Analysts
-
----
-
-## 🤝 Let's Connect
-
-If you liked this project or have any questions, feel free to reach out!
-
-- 🔗 [LinkedIn](#)
-- 🐙 [GitHub](#)
-- ✉️ Email: your.email@example.com
 
 ---
 
